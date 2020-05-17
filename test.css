@@ -1,0 +1,25 @@
+body {background-image: url(./background.jpg);
+    
+    }
+
+.box {text-align: center;
+     margin-top: 100px;
+    margin-bottom: 100px;}
+
+.game button {width: 90px; 
+            height: 40px;
+            border: 1px solid  #58FA58;
+            border-radius: 4px;
+            margin: 10px;
+            background-color: #58FA58;
+            }
+
+.game button:hover {background-color: #2EFE64;
+}
+
+.game h3 {font-family: 'Nanum Pen Script', cursive;
+font-size: 35px;
+color: #f1f1f1;}
+
+.game i {font-weight: 1000; 
+        color: white;}            
